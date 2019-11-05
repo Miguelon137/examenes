@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Llistat_de_tasque>
+    <tarea>
+        <Data>2019-12-29</Data>
+        <Descricio>Llista de compra per nadal</Descricio>
+        <Responsable>Joan</Responsable>
+        <Urgencia>Mitja</Urgencia>
+     <Fet>Si</Fet>
+    </tarea>
+    <tarea>
+        <Data>2019-01-01</Data>
+        <Descricio>Recollir restes de sopar</Descricio>
+        <Responsable>Joan</Responsable>
+        <Urgencia>Alta</Urgencia>
+        <Fet>No</Fet>
+    </tarea>
+    <tarea>
+        <Data>2019-01-05</Data>
+        <Descricio>Llista de compra per nadal</Descricio>
+        <Responsable>Maria</Responsable>
+        <Urgencia>Mitja</Urgencia>
+        <Fet>No</Fet>
+    </tarea>
+    <tarea>
+        <Data>2019-01-06</Data>
+        <Descricio>Dinar de reis</Descricio>
+        <Responsable>Tots</Responsable>
+        <Urgencia>Alta</Urgencia>
+        <Fet>No</Fet>
+    </tarea>
+    <tarea>
+        <Data>2019-01-07</Data>
+        <Descricio>Preparar tornada</Descricio>
+        <Responsable>Joan</Responsable>
+        <Urgencia>Baixa</Urgencia>
+        <Fet>No</Fet>
+    </tarea>
+</Llistat_de_tasque>
